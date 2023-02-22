@@ -26,12 +26,13 @@ import ucto_webservice
 import os
 from base64 import b64decode as D
 
-REQUIRE_VERSION = "3.1.4"
+REQUIRE_VERSION = "3.2.4"
 WRAPPERDIR = ucto_webservice.__path__[0]
 
 SYSTEM_ID = "ucto"
 SYSTEM_NAME = "Ucto Webservice"
 SYSTEM_DESCRIPTION = 'Ucto is a unicode-compliant tokeniser. It takes input in the form of one or more untokenised texts, and subsequently tokenises them. Several languages are supported, but the software is extensible to other languages.'
+SYSTEM_VERISON = "2.4"
 
 SYSTEM_AUTHOR = "Maarten van Gompel, Ko van der Sloot"
 
