@@ -15,7 +15,7 @@ def getreadme():
 
 setup(
     name = "Ucto Webservice",
-    version = "2.5", #make sure SYSTEM_VERSION in your service configuration is set to the same value!
+    version = "2.5.1", #make sure SYSTEM_VERSION in your service configuration is set to the same value!
     author = "Maarten van Gompel", #adapt this
     description = ("Ucto is a rule-based tokeniser for multiple languages. This is the webservice for it, for both humans and machines."),
     license = "GPLv3",
